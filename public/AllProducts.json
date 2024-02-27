@@ -1,0 +1,212 @@
+[
+    {
+        "name": "RoboBot 2000",
+        "price": 29.99,
+        "image": "https://i.ibb.co/nMNSyq8/Screenshot-2023-10-09-015858.png",
+        "description": "The RoboBot 2000 is a fun and educational robot toy for kids. It can dance, sing, and even tell jokes!",
+        "rating": 4.5,
+        "category": "Educational",
+        "comment": [
+            {
+                "commentId": 1,
+                "customerId": 123,
+                "customerName": "John Doe",
+                "commentText": "This product is amazing! I love the features and the quality.",
+                "rating": 5,
+                "timestamp": "2024-01-24T12:30:45"
+            }
+        ]
+    },
+    {
+        "name": "TechTurtle",
+        "price": 19.99,
+        "image": "https://i.ibb.co/Yc5zHGk/Screenshot-2023-10-09-020116.png",
+        "description": "Meet TechTurtle, the adorable robot turtle that teaches kids about programming and coding.",
+        "rating": 4.7,
+        "category": "Educational"
+    },
+    {
+        "name": "RoboTeaching Assistant",
+        "price": 42.99,
+        "image": "https://i.ibb.co/Tb294PL/Screenshot-2023-10-09-015946.png",
+        "description": "Get help with homework from the RoboTeaching Assistant! It can answer questions and explain concepts.",
+        "rating": 4.8,
+        "category": "Educational"
+    },
+    {
+        "name": "MathBot Genius",
+        "price": 36.99,
+        "image": "https://i.ibb.co/ZBr4Z1N/Screenshot-2023-10-09-020018.png",
+        "description": "MathBot Genius is a mathematical whiz that helps kids learn and practice math skills in a fun way.",
+        "rating": 4.6,
+        "category": "Educational"
+    },
+    {
+        "name": "Science Explorer Bot",
+        "price": 39.99,
+        "image": "https://i.ibb.co/BgxvrMF/Screenshot-2023-10-09-015831.png",
+        "description": "Explore the wonders of science with the Science Explorer Bot! It conducts exciting experiments.",
+        "rating": 4.4,
+        "category": "Educational"
+    },
+    {
+        "name": "Space Explorer Bot",
+        "price": 39.99,
+        "image": "https://i.ibb.co/QHb9LvN/Screenshot-2023-10-09-021538.png",
+        "description": "Blast off into space with the Space Explorer Bot! It lights up and makes cool space sounds.",
+        "rating": 4.2,
+        "category": "Sci-Fi"
+    },
+    {
+        "name": "Mars Rover Explorer",
+        "price": 45.99,
+        "image": "https://i.ibb.co/PYGFkff/Screenshot-2023-10-09-021559.png",
+        "description": "Explore the red planet with the Mars Rover Explorer! It's a replica of the famous Mars rovers.",
+        "rating": 4.2,
+        "category": "Sci-Fi"
+    },
+    {
+        "name": "AstroBot",
+        "price": 34.99,
+        "image": "https://i.ibb.co/VxDpfV0/Screenshot-2023-10-09-021751.png",
+        "description": "AstroBot is your space adventure companion! It can explore distant galaxies and stars.",
+        "rating": 4.3,
+        "category": "Sci-Fi"
+    },
+    {
+        "name": "Galactic Explorer",
+        "price": 37.99,
+        "image": "https://i.ibb.co/G74QbpN/Screenshot-2023-10-09-021822.png",
+        "description": "Embark on a journey through the cosmos with the Galactic Explorer robot!",
+        "rating": 4.1,
+        "category": "Sci-Fi"
+    },
+    {
+        "name": "Starship Commander",
+        "price": 49.99,
+        "image": "https://i.ibb.co/m5N0yj5/Screenshot-2023-10-09-021648.png",
+        "description": "Lead your own starship crew with the Starship Commander robot toy!",
+        "rating": 4.5,
+        "category": "Sci-Fi"
+    },
+    {
+        "name": "DinoBot",
+        "price": 24.99,
+        "image": "https://i.ibb.co/xjKhWPZ/Screenshot-2023-10-09-022631.png",
+        "description": "Roar into action with the DinoBot! This robotic dinosaur can walk, roar, and chomp its jaws.",
+        "rating": 4.0,
+        "category": "Dinosaurs"
+    },
+    {
+        "name": "T-Rex Roar",
+        "price": 29.99,
+        "image": "https://i.ibb.co/yhCnDNK/Screenshot-2023-10-09-022613.png",
+        "description": "Experience the mighty roar of the T-Rex Roar robot!",
+        "rating": 3.9,
+        "category": "Dinosaurs"
+    },
+    {
+        "name": "Jurassic Explorer",
+        "price": 32.99,
+        "image": "https://i.ibb.co/9q7TdfX/Screenshot-2023-10-09-022502.png",
+        "description": "Embark on a prehistoric adventure with the Jurassic Explorer robot!",
+        "rating": 4.2,
+        "category": "Dinosaurs"
+    },
+    {
+        "name": "RaptorBot",
+        "price": 27.99,
+        "image": "https://i.ibb.co/4V0cMXD/Screenshot-2023-10-09-022537.png",
+        "description": "Meet the speedy and agile RaptorBot, a dinosaur-inspired robot toy!",
+        "rating": 4.1,
+        "category": "Dinosaurs"
+    },
+    {
+        "name": "DinoGuardian",
+        "price": 35.99,
+        "image": "https://i.ibb.co/R7NxV6q/Screenshot-2023-10-09-022725.png",
+        "description": "Protect your room from imaginary threats with the DinoGuardian robot!",
+        "rating": 3.8,
+        "category": "Dinosaurs"
+    },
+    {
+        "name": "RoboRacer",
+        "price": 34.99,
+        "image": "https://i.ibb.co/ydhDVHK/Screenshot-2023-10-09-024155.png",
+        "description": "Race against your friends with the lightning-fast RoboRacer! It's equipped with sensors for obstacle avoidance.",
+        "rating": 4.3,
+        "category": "Racing"
+    },
+    {
+        "name": "TurboSpeed Racer",
+        "price": 39.99,
+        "image": "https://i.ibb.co/LgvHhrC/Screenshot-2023-10-09-024110.png",
+        "description": "Zoom around the track with the TurboSpeed Racer robot toy!",
+        "rating": 4.0,
+        "category": "Racing"
+    },
+    {
+        "name": "SpeedsterBot",
+        "price": 28.99,
+        "image": "https://i.ibb.co/SddcqB1/Screenshot-2023-10-09-023929.png",
+        "description": "Get ready for high-speed adventures with the SpeedsterBot racing robot!",
+        "rating": 4.4,
+        "category": "Racing"
+    },
+    {
+        "name": "Formula X",
+        "price": 45.99,
+        "image": "https://i.ibb.co/sW5pShn/Screenshot-2023-10-09-024219.png",
+        "description": "Experience the thrill of Formula X racing with this robotic racer!",
+        "rating": 4.2,
+        "category": "Racing"
+    },
+    {
+        "name": "Off-Road Adventure Bot",
+        "price": 49.99,
+        "image": "https://i.ibb.co/2MF3PWd/Screenshot-2023-10-09-024429.png",
+        "description": "Take on off-road challenges with the Off-Road Adventure Bot!",
+        "rating": 4.6,
+        "category": "Racing"
+    },
+    {
+        "name": "RoboPet",
+        "price": 22.99,
+        "image": "https://i.ibb.co/GC9XzF2/Screenshot-2023-10-09-025322.png",
+        "description": "Meet RoboPet, the lovable robotic pet companion! It's great for kids and adults alike.",
+        "rating": 4.4,
+        "category": "Pets"
+    },
+    {
+        "name": "PandaBot",
+        "price": 26.99,
+        "image": "https://i.ibb.co/QnbtG18/Screenshot-2023-10-09-025223.png",
+        "description": "PandaBot is the adorable robotic panda that loves to play and interact with its owners.",
+        "rating": 4.3,
+        "category": "Pets"
+    },
+    {
+        "name": "KittyBot",
+        "price": 23.99,
+        "image": "https://i.ibb.co/jVSgGQ6/Screenshot-2023-10-09-025257.png",
+        "description": "Enjoy the company of KittyBot, a robotic cat that purrs and responds to your touch!",
+        "rating": 4.2,
+        "category": "Pets"
+    },
+    {
+        "name": "PuppyPal",
+        "price": 27.99,
+        "image": "https://i.ibb.co/WtPXmHM/Screenshot-2023-10-09-024957.png",
+        "description": "PuppyPal is the ultimate robotic puppy that loves to fetch and play fetch with you!",
+        "rating": 4.1,
+        "category": "Pets"
+    },
+    {
+        "name": "PetPlaymate",
+        "price": 29.99,
+        "image": "https://i.ibb.co/KFmxcnh/Screenshot-2023-10-09-024907.png",
+        "description": "PetPlaymate is your robotic play buddy for your real pets, keeping them entertained for hours.",
+        "rating": 4.0,
+        "category": "Pets"
+    }
+]
